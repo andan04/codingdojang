@@ -1,0 +1,7 @@
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Parks\Desktop\선린 포트폴리오\코딩도장\보스부호 해독\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

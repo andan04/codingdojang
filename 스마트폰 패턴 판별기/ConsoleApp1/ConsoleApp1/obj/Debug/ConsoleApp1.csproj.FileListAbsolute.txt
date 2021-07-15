@@ -1,0 +1,7 @@
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\선린 지원\백석중_박지우\포트폴리오 파일\1. 코딩도장\코딩도장풀이\스마트폰 패턴 판별기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
